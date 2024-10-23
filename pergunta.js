@@ -1,0 +1,5 @@
+criacartao(
+    categoria,
+    pergunta,
+    resposta,
+)
